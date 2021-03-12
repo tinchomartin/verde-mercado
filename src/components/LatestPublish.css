@@ -1,0 +1,30 @@
+.card-plant {
+  /* width: 440px;
+  height: 280px; */
+  position: relative;
+}
+
+.img-plant {
+  width: 345px;
+  height: 255px;
+  border-radius: 5%;
+  display: flex;
+}
+
+.title {
+  position: absolute;
+  justify-content: center;
+  display: flex;
+  height: 63px;
+  width: 345px;
+  align-items: center;
+  color: white;
+  background: linear-gradient(
+    0deg,
+    rgba(137, 140, 140, 1) 19%,
+    rgba(253, 187, 45, 0) 100%
+  );
+  margin: 0;
+  top: 200px;
+  left: 7px;
+}
